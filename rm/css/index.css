@@ -1,0 +1,109 @@
+.fundo {
+	background: #252626 ;
+}
+
+.cabecalho {
+	background: white;
+	text-align: center;
+	padding: 1%;
+}
+
+.cabecalho2 {
+	color: #181f6d;
+	padding: 1%;
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+}
+
+.cabecalho2.h1 {
+	font-size: 7em;
+}
+
+div#header {
+	text-align: center;
+	background: white;
+}
+
+
+body div.salas1 {
+	position: absolute;
+	left: 10%;
+	top: 45%;
+	height: 20%;
+	width: 20%;
+	text-align: center;
+	background: white;
+	font-size: 2.4em;
+	padding-top: 2.5%;
+	border-radius: 5%;
+	border: 1px;
+}
+
+body div.salas1 a {
+	color: #181f6d;
+	font-weight: bolder;
+}
+
+body div.salas1 a:hover {
+	text-decoration: none;
+	color: #181f9f;
+	font-weight: bolder;
+}
+
+body div.salas2 {
+	position: absolute;
+	left: 39.5%;
+	top: 45%;
+	height: 20%;
+	width: 20%;
+	text-align: center;
+	background: white;
+	font-size: 2.4em;
+	padding-top: 2.5%;
+	border-radius: 5%;
+}
+
+body div.salas2 a {
+	color: #181f6d;
+	font-weight: bolder;
+}
+
+body div.salas2 a:hover {
+	text-decoration: none;
+	color: #181f9f;
+	font-weight: bolder;
+}
+
+
+body div.salas3 {
+	position: absolute;
+	left: 69%;
+	top: 45%;
+	height: 20%;
+	width: 20%;
+	text-align: center;
+	background: white;
+	font-size: 2.4em;
+	padding-top: 2.5%;
+	border-radius: 5%;
+}
+
+body div.salas3 a {
+	color: #181f6d;
+	font-weight: bolder;
+}
+
+body div.salas3 a:hover {
+	text-decoration: none;
+	color: #181f9f;
+	font-weight: bolder;
+}
+
+
+footer {
+	text-align: center;
+	color: white;
+	position: absolute;
+	top: 90%;
+	left: 43.5%;
+}

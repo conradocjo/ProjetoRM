@@ -1,0 +1,120 @@
+body.color {
+	background-color: #252626;
+}
+
+div#header {
+	text-align: center;
+	background: white;
+}
+
+body h1 {
+	color:  whitesmoke;
+	font-size: 2em;
+}
+
+body div#principal {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+body div.sala1 {
+	position: absolute;
+	left: 10%;
+	top: 35%;
+	height: 5%;
+	width: 20%;
+	text-align: center;
+}
+
+body div.sala2 {
+	position: absolute;
+	left: 39%;
+	top: 35%;
+	height: 5%;
+	width: 20%;
+	text-align: center;
+}
+
+body div.sala3 {
+	position: absolute;
+	left: 69%;
+	top: 35%;
+	height: 5%;
+	width: 20%;
+	text-align: center;
+}
+
+body div.azul {
+	color: whitesmoke;
+	text-align: center;
+	background-color: #007bff;
+	border: 5px;
+	padding-top: 8%;
+	padding-bottom: 15%;
+	border-radius: 5%;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+	box-shadow: 3px 3px black;
+	border-color: rgb(13, 79, 186);
+	border-style: solid;
+	
+}
+
+body div.amarelo {
+	color: whitesmoke;
+	text-align: center;
+	/*font-size: 5em;*/
+	background-color: #ffc107;
+	border: 5px;
+	padding-top: 8%;
+	padding-bottom: 15%;
+	border-radius: 5%;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+	box-shadow: 3px 3px black;
+	border-color: rgb(230, 160, 0);
+	border-style: solid;
+}
+
+body div.vermelho {
+	color: whitesmoke;
+	text-align: center;
+	background-color: #dc3545;
+	border: 5px;
+	padding-top: 8%;
+	padding-bottom: 15%;
+	border-radius: 5%;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+	box-shadow: 3px 3px black;
+	border-color: rgb(170, 5, 5);
+	border-style: solid;
+	
+}
+
+body div.verde {
+	color: whitesmoke;
+	text-align: center;
+	background-color: #28a745;
+	border: 5px;
+	padding-top: 8%;
+	padding-bottom: 15%;
+	border-radius: 5%;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+	box-shadow: 3px 3px black;
+	border-color: rgb(0, 153, 0);
+	border-style: solid;
+}
+
+
+
+
+footer p {
+	color: whitesmoke;
+	text-align: center;
+	margin-top: 25%;
+	padding-top: 10%;
+}
+
